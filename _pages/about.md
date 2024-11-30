@@ -11,7 +11,7 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 Biography
 ======
-I'm a master student from [Department of Computer Science](https://eecs.pku.edu.cn/), [Johns Hopkins University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a master's student from [Department of Computer Science](https://eecs.pku.edu.cn/), [Johns Hopkins University](https://www.pku.edu.cn/). My research interest includes computer graphics.
 
 Getting started
 ======
