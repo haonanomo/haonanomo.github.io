@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+sadasdasdasdasda
+asdasda
 ---
 permalink: /biography
 title: "Biography"
@@ -15,8 +16,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Biography
-======
+
 I'm a master's student from [Department of Computer Science](https://eecs.pku.edu.cn/), [Johns Hopkins University](https://www.pku.edu.cn/). My current research interest focuses on research in digital fabrication, geometry processing and computational inverse design. In the year of 2023, I received my Bachelor of Science in Applied Mathematics and Computer Science degree at the Department of Computational Mathematics and Cybernetics at Lomonosov Moscow State University, where I was advised by Professor [A.S. Fursov](https://cs.msu.ru/en/node/256) and [A.V. Maltseva](https://istina.msu.ru/profile/amaltseva/).
 
 Getting started
