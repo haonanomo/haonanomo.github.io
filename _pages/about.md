@@ -21,7 +21,9 @@ Getting started
 Projects
 ======
 **Topological Optimization of 3D Free-form Gears For Exact 3D Motion Generation**
+
 **Computational Design of Free-form Gear Ball**
+
 **Magic-Mirror: Immersive Real-Time VR Tool for Anatomy Visualization**
 
 How to edit your site's GitHub repository
