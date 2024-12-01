@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a master's student from [Department of Computer Science](https://eecs.pku.edu.cn/), [Johns Hopkins University](https://www.pku.edu.cn/). My current research interest focuses on research in digital fabrication, geometry processing and computational inverse design. In the year of 2023, I received my Bachelor of Science in Applied Mathematics and Computer Science degree at the Department of Computational Mathematics and Cybernetics at Lomonosov Moscow State University, where I was advised by Professor [A.S. Fursov](https://cs.msu.ru/en/node/256) and [A.V. Maltseva](https://istina.msu.ru/profile/amaltseva/).
+I'm a master's student from [Department of Computer Science](https://eecs.pku.edu.cn/), [Johns Hopkins University](https://www.pku.edu.cn/). My current research interest focuses on research in digital fabrication, geometry processing and computational inverse design. I'm fortunate enough to be advised by Professor [Peng Song](https://songpenghit.github.io/), conducting research about geometric optimization and fabrication. In the year of 2023, I received my Bachelor of Science in Applied Mathematics and Computer Science degree at the Department of Computational Mathematics and Cybernetics at Lomonosov Moscow State University, where I was advised by Professor [A.S. Fursov](https://cs.msu.ru/en/node/256) and [A.V. Maltseva](https://istina.msu.ru/profile/amaltseva/).
 
 Getting started
 ======
@@ -20,13 +20,9 @@ Getting started
 
 Projects
 ======
-1. 
-
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+**Topological Optimization of 3D Free-form Gears For Exact 3D Motion Generation**
+**Computational Design of Free-form Gear Ball**
+**Magic-Mirror: Immersive Real-Time VR Tool for Anatomy Visualization**
 
 How to edit your site's GitHub repository
 ------
